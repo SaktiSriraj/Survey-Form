@@ -37,7 +37,7 @@ body::before {
       rgba(58, 58, 158, 0.8),
       rgba(136, 136, 206, 0.7)
     ),
-    url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    url(https://i.pinimg.com/236x/b1/f3/71/b1f3718f1c66dc9818245b078c1d4a22.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -174,8 +174,9 @@ form {
   display: block;
   width: 100%;
   padding: 0.75rem;
-  background: var(--color-green);
+  background: var(--color-darkblue);
   color: inherit;
   border-radius: 2px;
   cursor: pointer;
+  
 }
